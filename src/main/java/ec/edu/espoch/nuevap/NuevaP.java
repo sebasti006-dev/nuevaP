@@ -65,6 +65,7 @@ public class NuevaP {
             System.out.println(multi+" x "+ contador +"= "+ (multi*contador));
                contador =contador +1; 
         } while (contador <1);
+           //hola 
                   
         }
       
